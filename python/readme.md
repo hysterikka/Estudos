@@ -21,10 +21,3 @@ Este diretório contém meus estudos, projetos e anotações sobre **Python**, i
 - **Analytics with SQL and Python** (Great Learning)
 - **W3Schools - Pandas, NumPy, SQL**
 
-## 🤝 Conecte-se Comigo
-
-- [GitHub](https://github.com/hysterikka)
-- [DIO](https://www.dio.me/users/stesouzz96)
-- [LinkedIn](https://www.linkedin.com/in/stesouzaj/)
-- [Kaggle](https://www.kaggle.com/stfanysouza)
-
